@@ -1,0 +1,1 @@
+A Tkinter-based Python desktop application that records voice input from a microphone, converts speech into text, and saves both the audio and transcription with timestamps. Each transcription file also includes a clickable link to the recorded audio file for easy playback.
